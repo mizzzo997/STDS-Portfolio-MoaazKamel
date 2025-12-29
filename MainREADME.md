@@ -1,7 +1,5 @@
 # Moaaz Kamel - Software 2 Portfolio
 
-# Moaaz Kamel - Software 2 Portfolio
-
 ## Portfolio Overview
 This portfolio contains all tasks, assignments, and the final project completed during the semester for the Software 2 course. It demonstrates the application of Object-Oriented Programming, design principles, design patterns, and testing practices using Python, Java, and JavaScript.
 
